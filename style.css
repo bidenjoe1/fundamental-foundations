@@ -1,8 +1,8 @@
-h1{
+.main-heading{
     color: blue;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 35px;
-    border: 3px solid black;
+    border-bottom: 3px solid black;
 }
 .nav-links{
     list-style-type: none;
@@ -11,7 +11,7 @@ h1{
 .nav-links li{
     display: inline-flex;
 }
-ul li a{
+.nav-links li a{
     text-decoration: none;
     background-color: green;
     width: 55px;
